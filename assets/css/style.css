@@ -1,0 +1,40 @@
+body {
+    background: url("../images/Picture1.png");
+    background-size: 100%;
+}
+
+.container {
+    margin-top: 2%;
+    background: white;
+    text-align: center;
+}
+
+.crystalBox {
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+#wins {
+    padding: 50px;
+    border: 5px solid rgb(164, 69, 253);
+}
+
+#losses {
+    padding: 50px;
+    border: 5px solid rgb(255, 71, 71);
+}
+
+#randomNumber {
+    padding: 50px;
+    border-radius: 50%;
+    background-color: rgb(255, 42, 159);
+}
+
+#totalScore {
+    padding: 50px;
+    border-radius: 50%;
+    background-color: rgb(176, 224, 230);
+}
+
+
+
